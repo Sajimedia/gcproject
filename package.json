@@ -1,0 +1,22 @@
+{
+  "name": "gcproject",
+  "version": "1.0.0",
+  "description": "sample app for Google cloud ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sajimedia/gcproject.git"
+  },
+  "author": "sajith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sajimedia/gcproject/issues"
+  },
+  "homepage": "https://github.com/Sajimedia/gcproject#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
